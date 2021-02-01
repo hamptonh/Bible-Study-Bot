@@ -8,8 +8,8 @@ import requests
 import random
 
 #ESV API STUFF
-API_KEY = '6a783febcf5d65cff19161bb669734229dccfaa7'
-API_URL = 'https://api.esv.org/v3/passage/text/'
+API_KEY =
+API_URL =
 
 def get_passage(book, chapter, verse):
 
@@ -59,4 +59,4 @@ async def bsearch(ctx, arg, arg2, arg3):
     text = get_esv_text(get_passage(arg, arg2, arg3))
     await ctx.send(text)
 
-client.run('NzU0MjE0OTAwNTE0OTQ3MTAz.X1xfXA.LTBcmry9mMUFbrdpw8XBcqgvq6Q')
+#CLIENT.RUN GOES HERE
