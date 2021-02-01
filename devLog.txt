@@ -2,4 +2,7 @@
 Initialized git repo
 
 2/1/2021
-CREDENTIALS CHECK
+BIBLE STUDY BOT ~ Indev v0.0.1a
+Interfaced with discord.py and esv.org. 
+Use ".bsearch book chapter verse" in discord to pull verses.
+
