@@ -1,2 +1,5 @@
 1/31/2021
 Initialized git repo
+
+2/1/2021
+CREDENTIALS CHECK
